@@ -13,7 +13,7 @@ defmodule Hangmean do
   end
 
   def play do
-    text = IO.gets("Guess the answer\n")
+    text = Game.prompt() |> String.trim() |> String.first()
     Game.guess(text)
     play()
   end
