@@ -1,21 +1,7 @@
-# Hangmean
+# Hangmean [WIP]
 
-**TODO: Add description**
+**Like hangman, but meaner.**
 
-## Installation
+## Getting Started
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `hangmean` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:hangmean, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/hangmean](https://hexdocs.pm/hangmean).
-
+Clone the project and run 'mix' in the command line to start playing.
