@@ -2,6 +2,11 @@
 
 **Like hangman, but meaner.**
 
+Currently, this project is just hangman. I've still got to make it...mean.
+
 ## Getting Started
 
-Clone the project and run 'mix' in the command line to start playing.
+1. Clone the project 
+2. run 'iex -S mix' in the command line to start playing.
+3. run Hangmean.start() to begin playing. 
+
